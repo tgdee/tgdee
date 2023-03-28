@@ -1,8 +1,6 @@
 # Hello World!
 
-I'm a graduating Computer Information Systems student at James Madison University. 
-
-I'm currently working on full stack web developmnet with C#, MS SQL, and ASP.NET.
+I'm a Computer Information Systems graduate who is currently working as Systems Administrator. 
 
 
 
